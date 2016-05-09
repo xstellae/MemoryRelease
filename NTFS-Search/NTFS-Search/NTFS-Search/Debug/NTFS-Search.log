@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  NTFS-Search.cpp
+c:\users\allan\documents\github\memoryrelease\ntfs-search\ntfs-search\ntfs-search\ntfs-search.cpp(375): warning C4302: “类型转换”: 从“LPVOID”到“char”截断
+  NTFS-Search.vcxproj -> C:\Users\Allan\Documents\GitHub\MemoryRelease\NTFS-Search\NTFS-Search\Debug\NTFS-Search.dll
