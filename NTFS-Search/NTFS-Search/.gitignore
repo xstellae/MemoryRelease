@@ -1,4 +1,4 @@
 #ignored file
 ipch/*
-debug/*
+Debug/*
 *.db
